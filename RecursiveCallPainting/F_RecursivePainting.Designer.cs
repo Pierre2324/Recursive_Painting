@@ -75,7 +75,7 @@
             this.b_generateGrid.TabIndex = 3;
             this.b_generateGrid.Text = "Generate Grid";
             this.b_generateGrid.UseVisualStyleBackColor = true;
-            this.b_generateGrid.Click += new System.EventHandler(this.b_generateGrid_Click);
+            this.b_generateGrid.Click += new System.EventHandler(this.B_generateGrid_Click);
             // 
             // lb_widthHeight
             // 

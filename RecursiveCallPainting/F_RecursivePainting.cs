@@ -24,7 +24,7 @@ namespace RecursiveCallPainting
 
         }
 
-        private void b_generateGrid_Click(object sender, EventArgs e)
+        private void B_generateGrid_Click(object sender, EventArgs e)
         {
             CreateGrid((int)nud_gridSize.Value, (int)nud_gridSize.Value);
         }
