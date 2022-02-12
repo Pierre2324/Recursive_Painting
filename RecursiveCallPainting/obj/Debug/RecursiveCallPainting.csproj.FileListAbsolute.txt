@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursiveCallPainting\bin\Debug\RecursiveCallPainting.exe.config
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursiveCallPainting\bin\Debug\RecursiveCallPainting.exe
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursiveCallPainting\bin\Debug\RecursiveCallPainting.pdb
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursiveCallPainting\obj\Debug\RecursiveCallPainting.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursiveCallPainting\obj\Debug\RecursiveCallPainting.F_RecursivePainting.resources
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursiveCallPainting\obj\Debug\RecursiveCallPainting.Properties.Resources.resources
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursiveCallPainting\obj\Debug\RecursiveCallPainting.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursiveCallPainting\obj\Debug\RecursiveCallPainting.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursiveCallPainting\obj\Debug\RecursiveCallPainting.exe
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursiveCallPainting\obj\Debug\RecursiveCallPainting.pdb
