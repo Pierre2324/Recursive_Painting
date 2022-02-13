@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveCallPainting", "RecursiveCallPainting\RecursiveCallPainting.csproj", "{7F96B9B0-2475-4FAE-A1F5-CEAE17BDC77C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursivePaintingNoUI", "RecursivePaintingNoUI\RecursivePaintingNoUI.csproj", "{8F5C2832-D239-4D52-A1C6-098D2E4F39A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7F96B9B0-2475-4FAE-A1F5-CEAE17BDC77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F96B9B0-2475-4FAE-A1F5-CEAE17BDC77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F96B9B0-2475-4FAE-A1F5-CEAE17BDC77C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5C2832-D239-4D52-A1C6-098D2E4F39A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5C2832-D239-4D52-A1C6-098D2E4F39A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5C2832-D239-4D52-A1C6-098D2E4F39A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5C2832-D239-4D52-A1C6-098D2E4F39A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

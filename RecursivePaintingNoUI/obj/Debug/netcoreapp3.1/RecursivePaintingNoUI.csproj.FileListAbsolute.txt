@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursivePaintingNoUI\bin\Debug\netcoreapp3.1\RecursivePaintingNoUI.exe
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursivePaintingNoUI\bin\Debug\netcoreapp3.1\RecursivePaintingNoUI.deps.json
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursivePaintingNoUI\bin\Debug\netcoreapp3.1\RecursivePaintingNoUI.runtimeconfig.json
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursivePaintingNoUI\bin\Debug\netcoreapp3.1\RecursivePaintingNoUI.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursivePaintingNoUI\bin\Debug\netcoreapp3.1\RecursivePaintingNoUI.dll
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursivePaintingNoUI\bin\Debug\netcoreapp3.1\RecursivePaintingNoUI.pdb
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursivePaintingNoUI\obj\Debug\netcoreapp3.1\RecursivePaintingNoUI.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursivePaintingNoUI\obj\Debug\netcoreapp3.1\RecursivePaintingNoUI.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursivePaintingNoUI\obj\Debug\netcoreapp3.1\RecursivePaintingNoUI.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursivePaintingNoUI\obj\Debug\netcoreapp3.1\RecursivePaintingNoUI.AssemblyInfo.cs
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursivePaintingNoUI\obj\Debug\netcoreapp3.1\RecursivePaintingNoUI.dll
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursivePaintingNoUI\obj\Debug\netcoreapp3.1\RecursivePaintingNoUI.pdb
+C:\Users\Owner\source\repos\RecursiveCallPainting\RecursivePaintingNoUI\obj\Debug\netcoreapp3.1\RecursivePaintingNoUI.genruntimeconfig.cache

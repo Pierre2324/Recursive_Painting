@@ -126,7 +126,7 @@ namespace RecursiveCallPainting
         //Method used to check neighbors of the initial/main index/cell user clicked on
         //Method then call itself to check neighbors of neighbors, etc
         //Checks are added so method has limits => wont go out of range, does not process neighbors having a different color than the initalColor(user clicked cell initial color)
-        private void CheckNeighbor(int x, int y)
+        void CheckNeighbor(int x, int y)
         {
             //If index is out of range return
             if (x == -1 || y == -1 || x >= grid.GetLength(0) || y >= grid.GetLength(1)) return;
