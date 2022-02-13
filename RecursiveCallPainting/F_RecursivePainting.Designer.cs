@@ -1,4 +1,4 @@
-﻿namespace RecursiveCallPainting
+﻿namespace RecursiveCellPainting
 {
     partial class F_RecursivePainting
     {

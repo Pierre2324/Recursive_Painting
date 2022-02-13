@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace RecursiveCallPainting
+namespace RecursiveCellPainting
 {
     public partial class F_RecursivePainting : Form
     {

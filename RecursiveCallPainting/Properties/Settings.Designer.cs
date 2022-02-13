@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace RecursiveCallPainting.Properties
+namespace RecursiveCellPainting.Properties
 {
 
 

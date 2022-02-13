@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveCallPainting", "RecursiveCallPainting\RecursiveCallPainting.csproj", "{7F96B9B0-2475-4FAE-A1F5-CEAE17BDC77C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveCellPainting", "RecursiveCallPainting\RecursiveCellPainting.csproj", "{7F96B9B0-2475-4FAE-A1F5-CEAE17BDC77C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursivePaintingNoUI", "RecursivePaintingNoUI\RecursivePaintingNoUI.csproj", "{8F5C2832-D239-4D52-A1C6-098D2E4F39A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursivePaintingNoUI", "RecursivePaintingNoUI\RecursivePaintingNoUI.csproj", "{8F5C2832-D239-4D52-A1C6-098D2E4F39A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
