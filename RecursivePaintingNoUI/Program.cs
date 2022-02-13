@@ -19,6 +19,8 @@ namespace RecursivePaintingNoUI
             {
                 Console.WriteLine("Enter grid size:");
                 Int32.TryParse(Console.ReadLine(), out gridSize);
+                //Clamp max grid size to 30 
+                gridSize = Math.Min(gridSize, 30);
             }
             Console.WriteLine("Generating grid of size : " + gridSize);
 
