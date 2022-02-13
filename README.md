@@ -21,9 +21,13 @@ the 2nd next neighbors, etc until every neighbors have been painted.
 
 
 PROJECTS:
-2 C# projects have been made.
-First  in Windows Form app  :: Recursive_Painting/RecursiveCallPainting/F_RecursivePainting.cs 
-Second in terminal directly :: Recursive_Painting/RecursiveCallPaintingNoUI/Program.cs 
+2 C# projects have been made:
+
+-First in Windows Form app:
+Recursive_Painting/RecursiveCallPainting/F_RecursivePainting.cs 
+
+-Second in terminal directly:
+Recursive_Painting/RecursiveCallPaintingNoUI/Program.cs 
 
 
 ADDITIONS:
